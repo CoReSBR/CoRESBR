@@ -14,7 +14,7 @@ We also open-source a newely constructed dataset crawled from AllRecipes.com.
 ## Usage
 
 There are 3 folders and each consists of:
-- data: preprocessed datasets
+- datasets: preprocessed datasets
 - runs: pre-trained models for each dataset
 - src: source codes
 
